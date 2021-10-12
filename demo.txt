@@ -1,2 +1,3 @@
 goa is a fruit 
 mango is so spicy
+fruits are good for health
