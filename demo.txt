@@ -1,5 +1,5 @@
 goa is a fruit 
-mango is so spicy
+mango is so tasty
 fruits are good for health
 git is a standard tool
 devops is an intresting class
