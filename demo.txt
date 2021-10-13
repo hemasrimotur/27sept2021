@@ -3,3 +3,4 @@ mango is so spicy
 fruits are good for health
 git is a standard tool
 devops is an intresting class
+git is a fast version controlling system
